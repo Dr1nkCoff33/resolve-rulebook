@@ -1,0 +1,1 @@
+Bumpers (intro, outro) and the music bed. One copy, here. The routine copies this folder into every project and relinks the template clips to the project's own copy, so a finished project never depends on this folder. If a template version changes these files, that version gets its own assets/ copy and the routine says which one it reads.

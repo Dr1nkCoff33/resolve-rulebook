@@ -1,0 +1,10 @@
+# media never enters the repo
+*.mov
+*.mp4
+*.wav
+*.png
+*.jpg
+_TEMPLATE/_archive/*
+!_TEMPLATE/_archive/.keep
+__pycache__/
+.DS_Store
